@@ -13,18 +13,11 @@
   <img align="center" alt="Dia-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thiago-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"> 
  
- 
-  
-
-<p align="center">
+  <p align="center">
   <img alingn="center" src="https://profile-counter.glitch.me/HJD2021/count.svg" />
 </p>
  
- 
-
-  <img src = ".github/" width = "325px" align = "right">
   
-  ![Snake animation](https://github.com/HJD2021/HJD2021/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/HJD2021/HJD2021/blob/output/github-contribution-grid-snake.svg)
  
  </div>
-
